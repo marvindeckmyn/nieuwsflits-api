@@ -1,0 +1,6 @@
+@NieuwsFlits.API_HostAddress = http://localhost:5030
+
+GET {{NieuwsFlits.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
